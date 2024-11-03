@@ -1,0 +1,12 @@
+[submodule "srp-search"]
+	path = srp-search
+	url = https://github.com/jonathanlo411/srp-search
+[submodule "srp-tracker-frontend"]
+	path = srp-tracker-frontend
+	url = https://github.com/jonathanlo411/srp-tracker-frontend
+[submodule "srp-tracker-backend"]
+	path = srp-tracker-backend
+	url = https://github.com/jonathanlo411/srp-tracker-backend
+[submodule "srp-profile-service"]
+	path = srp-profile-service
+	url = https://github.com/jonathanlo411/srp-profile-service
